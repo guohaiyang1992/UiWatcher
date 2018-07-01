@@ -87,7 +87,7 @@
 
 ```
 dependencies {
-     compile 'com.github.guohaiyang1992:UiWatcher:1.0'
+     compile 'com.github.guohaiyang1992:UiWatcher:v1.0'
 	}
 ```
 
